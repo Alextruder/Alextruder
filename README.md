@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alextruder
-- 👀 I’m interested in Data Visualization/Analysis
+- 👀 I’m interested in Data Visualization/Analysis, Data engineering, Data science, etc..
 - 🌱 I’m currently learning Big Data & Machine Learning at Efrei Paris
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
